@@ -83,8 +83,6 @@ class Base:
     def switch_to_parent_frame(self):
         self.driver.switch_to.parent()
 
-
-
     def wait_for_visiability(self,locator,timeout):
         wait=WebDriverWait(self.driver,timeout)
         condition=visibility_of_element_located(locator)

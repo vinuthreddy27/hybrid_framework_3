@@ -8,10 +8,10 @@ def test_Obs(driver):
     bs_page=Omayo(driver,ActionChains)
     bs_page.omayo("vinuth",
                   "C:/Users/swath/Downloads",
-                  "hey hii vinuth good morning.....",
-                  "i............",
+                  "hey hii good morning.....",
+                  ".............",
                   "Instagram",
                   "reddy",
-                  "jyothi",
+                  "ricky ponting",
                   "C:/Users/swath/OneDrive/Pictures/Saved Pictures/PRO1.png")
 
