@@ -1,5 +1,4 @@
 from time import sleep
-
 from Omayo_Blog_Spot.Library.lib import Base
 from Omayo_Blog_Spot.utilities.locatorsHub import omayo_blogspot_loctors
 
